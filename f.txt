@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is saikrishna
 i am learning devops
 
+=======
+alcflvfljdfsvnfjnisdnsfcnvfs
+>>>>>>> parent of 409fad5... Revert "F"
